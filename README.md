@@ -1,4 +1,4 @@
-# Migrate Bulk Domains To [m](https://www.cloudflare.com)
+# Migrate Bulk Domains To [Cloudflare](https://www.cloudflare.com)
 
 This script bulk adds domains, imports its current DNS records, enables and retrieves DNSSEC cloudflare records for each cloudflare created domain.
 
